@@ -1,6 +1,4 @@
 # Python-GUI-Chat-Bot
-This project is a desktop chatbot application built with Python Tkinter and Google’s Gemini API. It provides a simple interface where users can type messages, send them, and receive AI-generated responses in real-time.
-  Description 
 🤖 Gemini Chatbot (Tkinter + Python)
 A simple desktop chatbot built with Python Tkinter and Google Gemini API.
 This app lets you chat with Gemini in a clean GUI window.
